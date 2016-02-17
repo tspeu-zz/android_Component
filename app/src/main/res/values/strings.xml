@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dam3 Ej1 JM_B</string>
+    <string name="titulo">Formulario Login</string>
+    <string name="usuario">nombre usuario</string>
+    <string name="contrasena">contraseña</string>
+    <string name="repitacontrasena">repita contraseña</string>
+    <string name="validar">entrar</string>
+    <string name="lblusuario"></string>
+    <string name="atenusuario">el nombre está repetido</string>
+    <string name="infoUsuario">ingrese un nombre que no esté repetido, por favor</string>
+    <string name="infoPass">la contraseña no coincide</string>
+    <string name="imagenalerta">alerta</string>
+</resources>
